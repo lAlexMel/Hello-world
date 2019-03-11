@@ -1,5 +1,3 @@
-test2.py
-
 pip help
 pip install package_name
 pip uninstall package_name
