@@ -1,8 +1,8 @@
-from util1 import ut_a, ut_b
+from util1 import ut_a, ut_b, ut_c
 
 def hw():
-    return ut_a() + ut_b()
+    return ut_a() + ut_b(2) + ut_c()
 
 def main():
-    ch = hw()
-    return ch
+    s = hw()
+    return s

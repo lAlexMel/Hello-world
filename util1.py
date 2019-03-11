@@ -1,7 +1,6 @@
-
 def ut_a():
-    return 'a'
-def ut_b():
-    return 'b'
+    return 'Hello'
+def ut_b(n):
+    return ' ' * n
 def ut_c():
-    return 'c'
+    return 'world!'
