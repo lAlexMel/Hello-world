@@ -2,3 +2,5 @@
 simple programm
 commit
 change
+add
+close
