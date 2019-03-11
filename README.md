@@ -4,3 +4,4 @@ commit
 change
 add
 close
+test
